@@ -6,3 +6,7 @@
 -adicionar um arquivo no Stage
 -commitar um arquivo
 -fazer o upoad para o git
+
+#Segunda aula
+-Branch
+-chackout
